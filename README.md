@@ -1,3 +1,3 @@
 # Simple-Webproject-in-Netbeans-using-JsonPowerDB
 
-<b> Project on POwerDb </b>
+<bold> Project on POwerDb </bold>
